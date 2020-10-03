@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 .vscode/settings.json
 Data-Collisions.csv
-Collisions.csv  # DATA
+# DATA
+Collisions.csv  
+
